@@ -40,35 +40,6 @@ It is not optimized for production use.
 
 ---
 
-## 📁 Project Structure
-
-```
-ai-doc-assistant/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── api/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── config.js
-│   │   └── App.jsx
-│   └── .env
-│
-├── backend/
-│   ├── routes/
-│   │   ├── upload.js
-│   │   └── ask.js
-│   ├── utils/
-│   │   ├── pdfParser.js
-│   │   ├── chunker.js
-│   │   └── gemini.js
-│   ├── uploads/
-│   ├── store.js
-│   ├── index.js
-│   └── .env
-│
-└── README.md
-```
 
 ---
 
